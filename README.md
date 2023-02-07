@@ -7,7 +7,7 @@
 
 - 👯 I’m teaching web development at [Ada Tech School](https://adatechschool.fr/) <img width="20" height="20" alt="ada tech school" src="https://user-images.githubusercontent.com/16537140/217365743-f411dc6c-f881-4cd3-9be6-068f9382f6dd.png"> , an __inclusive & feminist school__.
 
-- 🌱 My favorite langage is __Ruby-on-Rails__  but I also do __React__ and __Python__  apply to Data Science.
+- 🌱 My favorite langage is __Ruby-on-Rails__  but I also do __React__ and __Python__ applied to data science.
 
 - 🤸‍♂️ I’m working on improving my __Turbo__ skills.
 
