@@ -1,7 +1,6 @@
 <h2 align="center">Hi 👋, I'm Laure</h2>
 <h3 align="center">A passionate developer from France</h3>
 
-- 😄 Pronouns: She/Her/Elle.
 
 - 🔥 I am a freelance fullstack developer. See my portfolio <a href='https://laurel16.github.io/portfolio/' target="_blank"> here </a></h2>.
 
