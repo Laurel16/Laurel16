@@ -4,7 +4,7 @@
 
 - 🔥 I am a freelance fullstack developer. See my portfolio <a href='https://laurel16.github.io/portfolio/' target="_blank"> here </a></h2>.
 
-- 👯 I’m teaching web development at [Ada Tech School](https://adatechschool.fr/) <img width="20" height="20" alt="ada tech school" src="https://user-images.githubusercontent.com/16537140/217365743-f411dc6c-f881-4cd3-9be6-068f9382f6dd.png"> , an __inclusive & feminist school__.
+- 👯 I’m teaching web development at [Ada Tech School](https://adatechschool.fr/) <img width="20" height="20" alt="ada tech school" src="https://user-images.githubusercontent.com/16537140/217365743-f411dc6c-f881-4cd3-9be6-068f9382f6dd.png"> , an __inclusive & feminist school__. I also teach Data Science at [Nao School](https://www.nao.school).
 
 - 🌱 My favorite langage is __Ruby-on-Rails__  but I also do __React__ and __Python__ applied to data science.
 
