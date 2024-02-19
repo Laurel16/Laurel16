@@ -8,7 +8,7 @@
 
 - 🌱 My favorite langage is __Ruby-on-Rails__  but I also do __React__ and __Python__ applied to data science.
 
-- 🤸‍♂️ I’m working on improving my __Turbo__ skills.
+- 🤸‍♂️ I’m working on improving my __Turbo__ skills and learning __Svelte__ .
 
 - 🗞 I am also a writer and a former journalist. I have been traveling all around the world.
 
